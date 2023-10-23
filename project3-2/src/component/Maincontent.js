@@ -11,7 +11,7 @@ function AutoLayoutExample() {
   return (
     <div >
       <Header/>
-      <h1>mendeploy react</h1>
+      
       
     <Container className='text-center mt-2' >
       <Row>
